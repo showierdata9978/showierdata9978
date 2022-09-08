@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=showierdata9978" alt="showierdata9978" /></a> </p>
 
-- 🔭 I’m currently working on [Scratch Anticheat](https://github.com/ScratchAntiCheat)
+- 🔭 I’m currently working on [My website](https://showierdata.tech)
 
 - 🌱 I’m currently learning **Any languge**
 
@@ -27,9 +27,23 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=showierdata9978&show_icons=true&locale=en&layout=compact" alt="showierdata9978" /></p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" width="40" height="40"> </a>
+<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" width="40" height="40"> </a>
+<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width="40" height="40"> </a>
+<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width="40" height="40"> <a>
+<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width="40" height="40"> </a>
+<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="40" height="40"> </a>
+<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width="40" height="40"> </a>
+<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="40" height="40"> </a>
+<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/json.svg" width="40" height="40"> </a>
+<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" width="40" height="40"> </a>
+<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg" width="40" height="40"> </a>
+<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg" width="40" height="40"></a>
+<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" width="40" height="40"></a>
+<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="40" height="40"></a>
+ <br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=showierdata9978&show_icons=true&locale=en&layout=compact" alt="showierdata9978"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=showierdata9978&show_icons=true&locale=en" alt="showierdata9978" /></p>
 
