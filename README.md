@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ShowierData9978</h1>
-<h3 align="center">A student Who is learning on there own</h3>
+<h3 align="center"Im learning on my own</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=showierdata9978&label=Profile%20views&color=0e75b6&style=flat" alt="showierdata9978" /> </p>
 
@@ -37,7 +37,7 @@ MeowerBots
 </h2>
 <img width=200 height=200 style="filter: brightness(100);" src="https://github.com/showierdata9978/showierdata9978/blob/main/Screenshot%202022-08-24%20205440.png">
 <br>
-Meowerbots is an github org that i own, that is for all of the open source Meower Bots and Meower Bot libs. All of my Bots and Meower Bot libs will libe there.
+Meowerbots is an github org that I own, that is for all of the open source Meower Bots and Meower Bot libs. All of my Bots and Meower Bot librarys will live there.
 <br><br>
 
 <h3> Urls </h3>
