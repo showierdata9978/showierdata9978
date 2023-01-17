@@ -88,7 +88,7 @@ It bears some resemblance to other first-person sandbox games, but its in-game w
 <a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="40" height="40"></a>
  <br><br>
 <img align="left" src="https://github-readme-stats-amber-nine.vercel.app/api/top-langs?username=showierdata9978&show_icons=true&locale=en" alt="showierdata9978"/></p>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <p><img align="center" src="https://github-readme-stats-amber-nine.vercel.app/api?username=showierdata9978&show_icons=true&locale=en" alt="showierdata9978" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=showierdata9978&" alt="showierdata9978" /></p>
