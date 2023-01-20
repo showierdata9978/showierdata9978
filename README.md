@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My website](https://showierdata.tech)
 
-- 🌱 I’m currently learning **Any languge**
+- 🌱 I’m currently learning **Java** in school
 
 - 👯 I’m looking to collaborate on [MeowerBots](https://github.com/MeowerBots)
 
@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **mellfang36@gmail.com**
 
-- ⚡ Fun fact **Im learning to code**
+- ⚡ Fun fact **I Have ADHD**
 
-<br \>
+<br>
 
 ## Projects
 
