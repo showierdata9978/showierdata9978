@@ -15,6 +15,7 @@
 
 - ⚡ Fun fact **Im learning to code**
 
+<br>
 ## Projects
 
 <br>
