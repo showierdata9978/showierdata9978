@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm ShowierData9978</h1>
 <h3 align="center"Im learning on my own</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=showierdata9978&label=Profile%20views&color=0e75b6&style=flat" alt="showierdata9978" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=showierdata9978" alt="showierdata9978" /></a> </p>
-
 - 🔭 I’m currently working on [My website](https://showierdata.tech)
 
 - 🌱 I’m currently learning **Any languge**
@@ -87,6 +83,12 @@ It bears some resemblance to other first-person sandbox games, but its in-game w
 <a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" width="40" height="40"></a>
 <a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="40" height="40"></a>
  <br><br>
+  
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=showierdata9978&label=Profile%20views&color=0e75b6&style=flat" alt="showierdata9978" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=showierdata9978" alt="showierdata9978" /></a> </p>
+
 <img align="left" src="https://github-readme-stats-amber-nine.vercel.app/api/top-langs?username=showierdata9978&show_icons=true&locale=en" alt="showierdata9978"/></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p><img align="center" src="https://github-readme-stats-amber-nine.vercel.app/api?username=showierdata9978&show_icons=true&locale=en" alt="showierdata9978" /></p>
