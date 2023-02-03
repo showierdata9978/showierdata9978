@@ -87,8 +87,10 @@ It bears some resemblance to other first-person sandbox games, but its in-game w
  <br><br>
   
 # My discord
-![My Discord](https://discord-readme-badge.vercel.app/api?id=893981911003836487)
-  
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/893981911003836487?theme=dark)](https://discord.com/users/893981911003836487)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=showierdata9978&label=Profile%20views&color=0e75b6&style=flat" alt="showierdata9978" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=showierdata9978" alt="showierdata9978" /></a> </p>
