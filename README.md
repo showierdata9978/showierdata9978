@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ShowierData9978</h1>
 <h3 align="center"Im learning on my own</h3>
 
-- 🔭 I’m currently working on [Pickaxe Mod](https:/github.com/showierdata9978/Pickaxe-mod)
+- 🔭 I’m currently working on [Pickaxe Mod](https://github.com/showierdata9978/Pickaxe-mod)
 
 - 🌱 I’m currently learning **Java** in school
 
