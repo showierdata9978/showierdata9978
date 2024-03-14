@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm ShowierData9978</h1>
 <h3 align="center"Im learning on my own</h3>
 
-
-- 🌱 I’m currently learning **Java** in school
-
 - 👯 I’m looking to collaborate on [MeowerBots](https://github.com/MeowerBots)
 
 - 🤝 I’m looking for help with [Meower](https://github.com/meower-media-co)
 
 - 💬 Ask me about **python , Minecraft**
 
-- 📫 How to reach me **mellfang36@gmail.com**
+- 📫 How to reach me **contact@showierdata.xyz**
 
 - ⚡ Fun fact **I Have ADHD**
 
@@ -99,3 +96,4 @@ It bears some resemblance to other first-person sandbox games, but its in-game w
 <p><img align="center" src="https://github-readme-stats-amber-nine.vercel.app/api?username=showierdata9978&show_icons=true&locale=en" alt="showierdata9978" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=showierdata9978&" alt="showierdata9978" /></p>
+
