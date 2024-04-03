@@ -69,7 +69,8 @@ It bears some resemblance to other first-person sandbox games, but its in-game w
 <a href="https://discord.gg/pMtZa6AVy2">Discord</a>
 <a href="https://store.steampowered.com/app/1941640/4D_Miner/">Steam Page</a>
 
-                    
+<h2> Meower! </h2>
+I Moderate Meower!        
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
