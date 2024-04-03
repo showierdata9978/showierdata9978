@@ -14,31 +14,45 @@
 <br>
 
 ## Projects
+### Meower Server
+The backend for Chords, Meower.js, and MeowerBot.py. 
 
-<br>
-<h2>
-  Meower
-  <br>
-</h2>
-<img style="filter: brightness(100);" src="https://camo.githubusercontent.com/d994e4dccc2e603be23b9689b45428463aa171903ee60acb81c75bc83c4a4214/68747470733a2f2f6d656f7765722e6f72672f6173736574732f6c6f676f2e737667">
-<br>
- Meower is a free, open-source, and non-profit social media platform. Meower is also a (currently WIP) alternative to Twitter, Discord, and Reddit,   completely free of advertising, tracking, data collection, and more! <br><br>The website and launch is available at https://meower.org<br><br>Go to https://github.com/meower-media-co to see the source code
-<br>
-<br>
-<h2>
-MeowerBots
-<br>
-</h2>
-<img width=200 height=200 style="filter: brightness(100);" src="https://github.com/showierdata9978/showierdata9978/blob/main/Screenshot%202022-08-24%20205440.png">
-<br>
-Meowerbots is an github org that I own, that is for all of the open source Meower Bots and Meower Bot libs. All of my Bots and Meower Bot librarys will live there.
-<br><br>
+<https://github.com/Meower-Media-Co/Meower-Server>
 
-<h3> Urls </h3>
+### Meower Svelte
+The offical (but bad) frontend for Meower!
 
-here is the Url For it [Here](https://github.com/MeowerBots/)<br>
-Discord Server For MeowerBots is [Here](https://discord.gg/bBZQV8euWC)
-<br>
+<https://github.com/Meower-Media-Co/Meower-Svelte>
+
+### MeowerBot.py
+
+This project is technically part of Meower-Community/MeowerBots.
+
+A Python Bot library with an API like nextcord or discord.py, but instead of discord
+
+<https://github.com/meower-community/MeowerBot.py>
+
+### Meower.js
+An offical meower client library. It was originally named MeowerBot.js before i took over it, and made it into an offical client library.
+
+<https://github.com/meower-media-co/Meower.js>
+
+### Chords
+A Meower Mobile client made for testing Meower.js, and rapidly designing it. 
+Fun fact: It is the first client made with Meower.js!
+
+<https://github.com/showierdata9978/Chords>
+
+### HTTP-Meower
+Parody of http.cat and http.dog, but for meower. 
+
+<https://github.com/meower-media-co/http-meower>
+
+### Meower Scratch Backup
+A GUI for the JSON backup of the meower scratch fourms
+
+<https://github.com/showierdata9978/meower-scratch-backup>
+
 ## Things I moderate For:
 
 <h2>4D Miner</h2>
