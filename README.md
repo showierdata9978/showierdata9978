@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **contact@showierdata.xyz**
 
-- ⚡ Fun fact **I Have ADHD**
+- ⚡ Fun fact: **I Have ADHD**
 
 <br>
 
