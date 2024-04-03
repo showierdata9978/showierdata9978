@@ -74,7 +74,6 @@ I Moderate Meower!
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://codepen.io/gavin holder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gavin holder" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17441809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17441809" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/showierdata9978" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="showierdata9978" height="30" width="40" /></a>
 </p>
