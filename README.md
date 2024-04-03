@@ -90,7 +90,7 @@ It bears some resemblance to other first-person sandbox games, but its in-game w
 <a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" width="40" height="40"> </a>
 <a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg" width="40" height="40"> </a>
 <a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="40" height="40"></a>
-<a><img src="https://en.wikipedia.org/wiki/File:PyCharm_Icon.svg" width="40" height="40"></a>
+<a><img src="https://github.com/showierdata9978/showierdata9978/assets/68120127/c517cbaf-7763-4b6f-b6e8-eb24d9d736c6" width="40" height="40"></a>
  <br><br>
   
 # My discord
