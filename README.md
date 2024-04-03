@@ -81,8 +81,6 @@ It bears some resemblance to other first-person sandbox games, but its in-game w
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" width="40" height="40"> </a>
-<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" width="40" height="40"> </a>
-<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" width="40" height="40"> </a>
 <a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width="40" height="40"> <a>
 <a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width="40" height="40"> </a>
 <a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="40" height="40"> </a>
@@ -91,9 +89,8 @@ It bears some resemblance to other first-person sandbox games, but its in-game w
 <a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/json.svg" width="40" height="40"> </a>
 <a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" width="40" height="40"> </a>
 <a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/docker.svg" width="40" height="40"> </a>
-<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg" width="40" height="40"></a>
-<a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" width="40" height="40"></a>
 <a><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="40" height="40"></a>
+<a><img src="https://en.wikipedia.org/wiki/File:PyCharm_Icon.svg" width="40" height="40"></a>
  <br><br>
   
 # My discord
