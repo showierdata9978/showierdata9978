@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ShowierData9978</h1>
 <h3 align="center"Im learning on my own</h3>
 
-- 👯 I’m looking to collaborate on [MeowerBots](https://github.com/MeowerBots)
+- 👯 I’m looking to collaborate on [Meower.js](https://github.com/Meower-Media-Co/Meower.js)
 
 - 🤝 I’m looking for help with [Meower](https://github.com/meower-media-co)
 
