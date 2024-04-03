@@ -104,8 +104,6 @@ I Moderate Meower!
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=showierdata9978" alt="showierdata9978" /></a> </p>
 
 <img align="left" src="https://github-readme-stats-amber-nine.vercel.app/api/top-langs?username=showierdata9978&show_icons=true&locale=en" alt="showierdata9978"/></p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p><img align="center" src="https://github-readme-stats-amber-nine.vercel.app/api?username=showierdata9978&show_icons=true&locale=en" alt="showierdata9978" /></p>
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=showierdata9978&" alt="showierdata9978" /></p>
 
