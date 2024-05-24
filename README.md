@@ -79,10 +79,6 @@
         </a>
 </p>
 
-
-# My discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/893981911003836487?theme=dark)](https://discord.com/users/893981911003836487)
-
 # Other stuff
 ![Profile Views](https://komarev.com/ghpvc/?username=showierdata9978&label=Profile%20views&color=0e75b6&style=flat)
 
